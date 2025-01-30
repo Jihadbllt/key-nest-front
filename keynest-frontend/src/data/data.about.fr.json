@@ -1,18 +1,17 @@
 {
 	"title": "Les valeurs de KeyNest",
-	"description": "Bienvenue chez KeyNest, votre plateforme de référence pour trouver des hébergements uniques...",
-	"accordions": [
-		{
-			"title": "Fiabilité",
-			"content": "Les annonces publiées sur KeyNest garantissent une fiabilité totale..."
-		},
-		{
-			"title": "Service",
-			"content": "Nos équipes sont à votre disposition pour vous offrir une expérience parfaite..."
-		},
-		{
-			"title": "Confiance",
-			"content": "Chez KeyNest, nous accordons la priorité à établir une relation de confiance avec nos utilisateurs en garantissant des transactions sécurisées, des hôtes vérifiés et des politiques transparentes."
-		}
+	"accordionItems": [
+	  {
+		"title": "Fiabilité",
+		"content": "Les annonces publiées sur KeyNest garantissent une fiabilité totale. Les photos correspondent aux hébergements, et toutes les informations sont régulièrement vérifiées par nos équipes."
+	  },
+	  {
+		"title": "Service",
+		"content": "Notre service veille à ce que vos besoins soient satisfaits à chaque étape. De la réservation au départ, nous sommes là pour vous."
+	  },
+	  {
+		"title": "Confiance",
+		"content": "Chez KeyNest, nous accordons la priorité à établir une relation de confiance avec nos utilisateurs en garantissant des transactions sécurisées, des hôtes vérifiés et des politiques transparentes."
+	  }
 	]
-}
+  }
