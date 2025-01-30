@@ -1,0 +1,116 @@
+.accordion-item {
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .accordion-item.open {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .accordion-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #e91e63;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1.1rem;
+  }
+  
+  .accordion-header:hover {
+    background-color: #d81b60;
+  }
+  
+  .accordion-title {
+    font-weight: bold;
+  }
+  
+  .accordion-toggle {
+    border: none;
+    background: none;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .accordion-body {
+    padding: 15px;
+    background-color: #fff;
+    font-size: 0.9rem;
+    color: #555;
+    animation: slideDown 0.3s ease-in-out;
+  }
+  
+  .accordion-item {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .accordion-item.open {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .accordion-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #f321de;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1.1rem;
+  }
+  
+  .accordion-header:hover {
+    background-color: #1976d2;
+  }
+  
+  .accordion-title {
+    font-weight: bold;
+  }
+  
+  .accordion-toggle {
+    border: none;
+    background: none;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .accordion-body {
+    padding: 15px;
+    background-color: #fff;
+    font-size: 0.9rem;
+    color: #555;
+    animation: slideDown 0.3s ease-in-out;
+  }
+  
+  @keyframes slideDown {
+    from {
+      max-height: 0;
+      opacity: 0;
+    }
+    to {
+      max-height: 500px;
+      opacity: 1;
+    }
+  }
+  
+  
+  @keyframes slideDown {
+    from {
+      max-height: 0;
+      opacity: 0;
+    }
+    to {
+      max-height: 500px;
+      opacity: 1;
+    }
+  }
