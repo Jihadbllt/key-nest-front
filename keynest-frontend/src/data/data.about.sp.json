@@ -1,17 +1,18 @@
 {
 	"title": "Los valores de KeyNest",
-	"accordionItems": [
-	  {
-		"title": "Fiabilidad",
-		"content": "Los anuncios publicados en KeyNest garantizan una fiabilidad total. Las fotos coinciden con los alojamientos y toda la información es verificada regularmente por nuestros equipos."
-	  },
-	  {
-		"title": "Servicio",
-		"content": "Nuestro servicio garantiza que todas sus necesidades sean atendidas en cada paso. Desde la reserva hasta la salida, estamos aquí para usted."
-	  },
-	  {
-		"title": "Confianza",
-		"content": "En KeyNest, damos prioridad a construir una relación de confianza con nuestros usuarios garantizando transacciones seguras, anfitriones verificados y políticas transparentes."
-	  }
+	"description": "Bienvenido a KeyNest, tu plataforma de referencia para encontrar alojamientos únicos...",
+	"accordions": [
+		{
+			"title": "Fiabilidad",
+			"content": "Los anuncios publicados en KeyNest garantizan una fiabilidad total..."
+		},
+		{
+			"title": "Servicio",
+			"content": "Nuestros equipos están a tu disposición para ofrecerte una experiencia perfecta..."
+		},
+		{
+			"title": "Confianza",
+			"content": "En KeyNest, damos prioridad a construir una relación de confianza con nuestros usuarios garantizando transacciones seguras, anfitriones verificados y políticas transparentes."
+		}
 	]
-  }
+}
