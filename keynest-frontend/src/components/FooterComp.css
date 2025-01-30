@@ -29,3 +29,24 @@
   .footer-links li a:hover {
     color: #333; 
   }
+
+.language-switcher {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding: 1rem;
+  background: #f5f5f5;
+}
+
+.language-switcher button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+.language-switcher button.active {
+  background: #007bff;
+  color: white;
+}
